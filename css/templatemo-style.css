@@ -486,7 +486,7 @@ p:last-child { margin-bottom: 0; }
 }
 
 .jumbotron {
-	background-image: url(../cover.jpg);
+	background-image: url(img/pakan.jpg);
 	background-size: cover;
 	color: white;
 	position: relative;
